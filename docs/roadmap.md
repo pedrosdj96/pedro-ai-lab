@@ -14,8 +14,8 @@
 ## Próximos Passos
 
 - [ ] Docker Compose
-- [ ] Integrar Ollama
-- [ ] Instalar Open WebUI
+- [x] Integrar Ollama
+- [x] Instalar Open WebUI
 - [ ] Criar Dashboard Web
 - [ ] Automatizar Lightpanda
 - [ ] Adicionar projetos GitHub
